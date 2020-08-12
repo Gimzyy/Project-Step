@@ -1,0 +1,37 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/devapp-space" />
+          <option name="serverUri" value="https://dev.azure.com/devapp-space" />
+          <option name="userId" value="6991cfe0-ab61-41ef-bd60-508d01d4cd35" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://devapp-space@dev.azure.com/devapp-space/airconditioner/_git/airconditioner" />
+          <option name="serverUri" value="https://dev.azure.com/devapp-space" />
+          <option name="userId" value="630525d7-f66a-43be-911d-822da0be1756" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;957e4b14-106d-442f-baf7-4ac47d24c6a0&quot;,&quot;name&quot;:&quot;devapp-space&quot;,&quot;url&quot;:&quot;https://dev.azure.com/devapp-space/_apis/projectCollections/957e4b14-106d-442f-baf7-4ac47d24c6a0&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;2c066c2d-b87d-40f4-9b5b-36eec3fd87ab&quot;,&quot;name&quot;:&quot;airconditioner&quot;,&quot;revision&quot;:21,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/devapp-space/_apis/projects/2c066c2d-b87d-40f4-9b5b-36eec3fd87ab&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;2bdd6f2e-160a-4594-b3a8-46d84c0986eb&quot;,&quot;name&quot;:&quot;airconditioner&quot;,&quot;remoteUrl&quot;:&quot;https://devapp-space@dev.azure.com/devapp-space/airconditioner/_git/airconditioner&quot;,&quot;url&quot;:&quot;https://dev.azure.com/devapp-space/2c066c2d-b87d-40f4-9b5b-36eec3fd87ab/_apis/git/repositories/2bdd6f2e-160a-4594-b3a8-46d84c0986eb&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;2c066c2d-b87d-40f4-9b5b-36eec3fd87ab&quot;,&quot;name&quot;:&quot;airconditioner&quot;,&quot;revision&quot;:21,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/devapp-space/_apis/projects/2c066c2d-b87d-40f4-9b5b-36eec3fd87ab&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="C:\Users\Admin\Desktop" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//dev.azure.com/devapp-space" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>
